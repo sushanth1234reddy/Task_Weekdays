@@ -1,0 +1,43 @@
+.main{
+    background-color: grey;
+    border: 5px solid green;
+    height: 300px;
+    width: 300px;
+    margin: 100px;
+    border-radius: 500px;
+
+}
+.mon,.tues,.wed,.thus,.fri,.sat,.sun{
+    border: 2px solid black;
+    width: 70px;
+    border-radius: 20px;
+    text-align: center;
+}
+.mon{
+    background-color: red;
+    margin: -10px 50px 30px 108px ;
+}
+.tues{
+    background-color: blue;
+    margin: 50px 50px 75px -3px;
+}
+.wed{
+    background-color: green;
+    margin: 50px 50px 90px -30px;
+}
+.thus{
+    background-color: yellow;
+    margin: 90px 50px -20px 30px;
+}
+.fri{
+    background-color: orange;
+    margin: 3px 50px 30px 180px;
+}
+.sat{
+    background-color: purple;
+    margin: -150px 50px 30px 260px;
+}
+.sun{
+    background-color: cyan;
+    margin: -150px 50px 50px 240px;
+}
